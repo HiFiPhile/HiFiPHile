@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Stat A](https://github-readme-stats.vercel.app/api?username=HiFiPhile&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Stat B](https://github-readme-streak-stats.herokuapp.com/?user=HiFiPhile&theme=vue-dark&hide_border=true)
+![Stat C](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiPhile&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **HiFiPhile/HiFiPHile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
