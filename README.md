@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Stat A](https://github-readme-stats.vercel.app/api?username=HiFiPhile&show_icons=true&include_all_commits=true&count_private=true)
-![Stat B](https://github-readme-streak-stats.herokuapp.com/?user=HiFiPhile)
 ![Stat C](https://github-readme-stats.vercel.app/api/top-langs/?username=HiFiPhile&show_icons=true&layout=compact)
 
 <!--
