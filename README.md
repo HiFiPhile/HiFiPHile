@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-- Hardware & embedded system leader of 🍀 [OGGA SAS](www.ogga.fr)
+- Hardware & embedded system leader of 🍀 [OGGA SAS](https://www.ogga.fr)
 - Co-Maintainer of 🔌 [TinyUSB](https://github.com/hathach/tinyusb) 
 
 ## GitHub stats
