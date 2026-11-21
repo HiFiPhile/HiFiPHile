@@ -5,5 +5,5 @@
 - Co-Maintainer of 🔌 [TinyUSB](https://github.com/hathach/tinyusb) 
 
 ## GitHub stats
-![GitHub stats](https://hex-stats.vercel.app/api?username=HiFiPhile&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=3600)
-![Top languages](https://hex-stats.vercel.app/api/top-langs/?username=HiFiPhile&show_icons=true&layout=compact&cache_seconds=3600)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HiFiPhile&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=HiFiPhile&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HiFiPhile&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=HiFiPhile&include_all_commits=true&theme=dark_github)
